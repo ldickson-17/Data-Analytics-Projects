@@ -12,7 +12,7 @@ Graduate student in Data Analytics at UMass Amherst with interests in:
 ### [Riverdale Subtitle Text Analysis](https://github.com/ldickson-17/riverdale-text-analysis)
 Analysis of subtitle dialogue using sentiment analysis and text mining in R.
 
-### IMDb TV Show Rating Analysis
+### [IMDb TV Show Rating Analysis](https://github.com/ldickson-17/imdb-tv-rating-analysis)
 Regression analysis exploring factors associated with IMDb television ratings.
 
 ## Tools & Skills
